@@ -42,5 +42,3 @@ console.log(util);
 //console.log(sumOf2Numbers(27, 62));
 
 // Excellent Clean Coding :)
-
-// TBD new file import npm installed lib
